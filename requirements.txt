@@ -1,0 +1,5 @@
+moviepy
+requests
+beautifulsoup4
+gTTS
+Pillow
